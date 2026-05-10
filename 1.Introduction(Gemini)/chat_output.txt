@@ -1,0 +1,10 @@
+User: Say hello in one sentence.
+Bot: Hello there!
+
+User: What is the price of the 4K TV?
+Bot: Hi there! I'd be happy to help you with that.
+
+The 4K TV is priced at **$900**.
+
+Is there anything else I can assist you with regarding the TV's features or anything else today?
+
