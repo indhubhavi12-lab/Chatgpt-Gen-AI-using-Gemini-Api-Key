@@ -1,0 +1,22 @@
+E:\Hope AI\Chatgpt Gen AI\1.OpenAI(0.28.0)\2.Buliding System with LLM Models using Gemini\Process Inputs � Chaining Prompts.py:2: FutureWarning: 
+
+All support for the `google.generativeai` package has ended. It will no longer be receiving 
+updates or bug fixes. Please switch to the `google.genai` package as soon as possible.
+See README for more details:
+
+https://github.com/google-gemini/deprecated-generative-ai-python/blob/main/README.md
+
+  import google.generativeai as genai
+Step 1 Output:
+
+Machine Learning (ML) is a field of artificial intelligence that empowers computers to learn from data without being explicitly programmed for every specific task. Instead, it uses algorithms to identify patterns, build models, and make data-driven predictions, classifications, or decisions. This allows systems to adapt and improve their performance over time as they are exposed to more data, enabling them to tackle complex challenges like image recognition, natural language processing, and personalized recommendations.
+
+Step 2 Output:
+
+Here are 5 bullet points summarizing the explanation:
+
+*   Machine Learning (ML) is an Artificial Intelligence field where computers learn from data.
+*   It allows systems to learn without being explicitly programmed for every specific task.
+*   ML uses algorithms to identify patterns, build models, and make data-driven predictions or decisions.
+*   Systems adapt and improve their performance over time as they are exposed to more data.
+*   It enables tackling complex challenges such as image recognition, natural language processing, and personalized recommendations.
