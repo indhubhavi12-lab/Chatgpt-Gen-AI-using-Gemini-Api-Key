@@ -2,7 +2,7 @@ from google import genai
 import json
 
 # Gemini API Key
-client = genai.Client(api_key="AIzaSyCMFkbPMfEAX56_UF5mME1LsVKE5vL_STI")
+client = genai.Client(api_key="Enter your api Key")
 
 
 def save_chat_output(user_text, bot_text):
